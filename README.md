@@ -5,9 +5,9 @@
 ### Contributors: François D'Entremont, Mohit Francis, Cindy Lu
 
 
-
-[View on GitHub](https://github.com/MohitFrancis/EsriAppChallenge2023)         [Live Demo](www.google.com)                 [Watch Video](www.youtube.com)
-
+[View on GitHub](https://github.com/MohitFrancis/EsriAppChallenge2023)
+[Live Demo](www.google.com)
+[Watch Video](www.youtube.com)
 
 
 # **App: _NAME_OF_APP_**
@@ -22,6 +22,7 @@ Hosted on ArcGIS Online:
 - Main Website:
 - Web App:
 
+
 ## Introduction
 
 In Canada, populations of species at risk have declined by an average of 59 percent since 1970<sup>[1]</sup>. According to the Canadian Species Index, between 1970 and 2016, the population size of monitored mammal species decreased by 42 percent on average and fish species by 21 percent<sup>[2]</sup>.
@@ -29,6 +30,7 @@ In Canada, populations of species at risk have declined by an average of 59 perc
 To arrest further decline in biodiversity and habitat areas, decisive action is required from all stakeholders, from all levels of government, researchers, private enterprises, and the public. On 09 December 2022, at the 15th Conference of the Parties (COP15) to the United Nations Convention on Biological Diversity, the Government of Canada set the goal of conserving 25 percent of Canada’s land and water by 2025, and 30 percent by 2030 (colloquially referred to as the 30 by 30 Project)<sup>[3][4]</sup>.
 
 To meet this ambitious target, novel approaches are required. But there is great debate on which approaches to take, and how to achieve the above goals <sup>[5][6][7]</sup>
+
 
 ## Mission Statement
 
@@ -47,7 +49,6 @@ Instead, this is a reporting, compliance, and awareness tool. This is a tool cre
 - To what extent will its creation help in the progress of the project?
 - How can the public holds its officials to account?
 
-The aim of **REPLACE WITH NAME OF APP** is to measure how well the provincial, territorial, and federal governments are complying with the goals of the 30 by 30 Project. Anyone can use the App, with the aim of raising awareness and pressure on our elected leaders.
 
 ## **REPLACE WITH NAME OF APP**
 
@@ -84,15 +85,16 @@ The aim of **REPLACE WITH NAME OF APP** is to measure how well the provincial, t
 
 **Data Layers**
 
-- List map layers and types here
 
+- List map layers and types here
 
 **Data Sources**
 
+
 - List data sources here
 
-
 ## Video Presentation
+
 
 **VIDEO GOES HERE**
 
@@ -101,10 +103,10 @@ The aim of **REPLACE WITH NAME OF APP** is to measure how well the provincial, t
 
 [README.md](https://github.com/MohitFrancis/EsriAppChallenge2023/edit/main/README.md)
 
+
 ## Source Code / Compiled Copies of App:
 
 - [Copy of code/source code]()
-
 
 
 ## Team Members
@@ -133,6 +135,7 @@ The themes of this year's ECCE App Challenge - Conservation and Protected Areas 
 ## Acknowledgments
 
 We would like to acknowledge COGS faculty, Esri Canada Higher Education and Research staff, our family, and our friends for their advice, guidance, and support. Thank you all!
+
 
 ## References Cited
 
