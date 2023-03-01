@@ -2,7 +2,7 @@
 ## Centre of Geographic Sciences (COGS), Nova Scotia Community College (NSCC)
 ## Team: GeoCity Wizards
 ### Description: Submission for all ECCE App Challenge 2023 Material
-### Contributors: François D'Entremont, Mohit Francis, Cindy Lu
+### Contributors: François d'Entremont, Mohit Francis, Cindy Lu
 
 
 [View on GitHub](https://github.com/MohitFrancis/EsriAppChallenge2023)
@@ -113,7 +113,9 @@ Instead, this is a reporting, compliance, and awareness tool. This is a tool cre
 
 [Picture Link]
 
-**François D'Entremont:**
+**François D'Entremont:** Hi! I'm a geospatial data enthusiast, and my interests in math, programming, machine learning, spatial analysis, and chess led me to pursue a graduate certificate in Geospatial Data Analytics. One of the coolest projects I'm currently working on is classifying pottery shards from the Levant using machine learning models. It's a fascinating challenge that allows me to apply my spatial analysis and machine learning skills to real-world problems. As a curious and passionate learner, I'm always eager to take on new challenges and explore new opportunities in the exciting world of geospatial analysis. Whether it's using data to make informed decisions or developing innovative solutions to complex problems, I'm ready for whatever comes my way. 
+
+When I'm not busy analyzing data, you'll likely find me watching hockey games, cheering for my favorite teams, and enjoying all the action on the ice!
 
 
 [Picture Link]
