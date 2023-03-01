@@ -80,16 +80,20 @@ Instead, this is a reporting, compliance, and awareness tool. This is a tool cre
 
 **Data**
 
+Data Layers
+
 | Data Layer      | Data Source |
 | ----------- | ----------- |
 | Canadian Marine Boundary | [Flanders Marine Institute](https://www.marineregions.org/eezdetails.php?mrgid=8493) |
 | Canadian Protected and Conserved Areas | [Canadian Wildlife Service](https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html) |
 | Important Bird Areas | [Bird Studies Canada](http://www.ibacanada.org) |
 | Key Biodiversity Areas | [Canada KBA](https://kbacanada.org/explore/map-viewer/) |
-| Provinces and Territories of Canada     | esri_canada       |
+| Provinces and Territories of Canada     | [esri_canada](https://www.arcgis.com/home/item.html?id=d3fef65386df4e63b02d6e23bb98a1ee)       |
 | Terrestrial Ecoregions of Canada   | [Agriculture and Agri-Food Canada](https://open.canada.ca/data/en/dataset/ade80d26-61f5-439e-8966-73b352811fe6)  |
 
+Additional Data
 
+- Ecoregion Description from [Ecological Framework of Canada](http://www.ecozones.ca/), Environment Canada
 
 ## Video Presentation
 
