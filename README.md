@@ -80,18 +80,16 @@ Instead, this is a reporting, compliance, and awareness tool. This is a tool cre
 
 **Data**
 
-- List data here
+| Data Layer      | Data Source |
+| ----------- | ----------- |
+| Canadian Marine Boundary | [Flanders Marine Institute](https://www.marineregions.org/eezdetails.php?mrgid=8493) |
+| Canadian Protected and Conserved Areas | [Canadian Wildlife Service](https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html) |
+| Important Bird Areas | [Bird Studies Canada](http://www.ibacanada.org) |
+| Key Biodiversity Areas | [Canada KBA](https://kbacanada.org/explore/map-viewer/) |
+| Provinces and Territories of Canada     | esri_canada       |
+| Terrestrial Ecoregions of Canada   | [Agriculture and Agri-Food Canada](https://open.canada.ca/data/en/dataset/ade80d26-61f5-439e-8966-73b352811fe6)  |
 
 
-**Data Layers**
-
-
-- List map layers and types here
-
-**Data Sources**
-
-
-- List data sources here
 
 ## Video Presentation
 
@@ -127,7 +125,7 @@ The themes of this year's ECCE App Challenge - Conservation and Protected Areas 
 
 [Picture Link]
 
-**Cindy Lu:**
+**Cindy Lu:** Hello! My GIS journey began with a curiosity for the world around me and a desire to understand how different factors interact and influence each other. While working at a conservation organization in beautiful British Columbia, I discovered the power of GIS to bridge knowledge gaps across time and space. With its versatility and compatibility with different types of data and industries, GIS quickly became a passion of mine. Currently, I am studying in the Geospatial Data Analytics program at COGS, building on my previous education with a Bachelor of Arts in Environment from McGill University. When I'm not glued to my computer screen, you can often find me exploring new hiking trails, checking out cozy local shops, or venturing off to far-off lands and waters. I hope our app will encourage you to learn a little more about the diversity of Canadian ecosystems and explore ways to protect and conserve the place we call home.
 
 
 
