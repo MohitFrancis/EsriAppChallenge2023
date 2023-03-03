@@ -105,7 +105,7 @@ All photos and videos in the first half of the video are free to use and were so
 All music used in the video is also free to use and was sourced from Pixabay ([License](https://pixabay.com/service/license/)).
 
 
-![CanadaConservesVideo](https://nscc.sharepoint.com/:v:/r/sites/ECCEAppChallengeTeam/Shared%20Documents/General/videos/CanadaConserves.mp4?csf=1&web=1&e=FrtXcj)
+[CanadaConservesVideo](https://nscc.sharepoint.com/:v:/r/sites/ECCEAppChallengeTeam/Shared%20Documents/General/videos/CanadaConserves.mp4?csf=1&web=1&e=FrtXcj)
 
 
 ## Documentation
