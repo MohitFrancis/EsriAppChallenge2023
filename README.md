@@ -110,7 +110,7 @@ All photos and videos in the first half of the video are free to use and were so
 All music used in the video is also free to use and was sourced from Pixabay ([License](https://pixabay.com/service/license/)).
 
 
-![CanadaConservesVideo](https://github.com/MohitFrancis/EsriAppChallenge2023/blob/main/video/CanadaConserves)
+[CanadaConservesVideo goes here]
 
 
 ## Documentation
