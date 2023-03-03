@@ -10,7 +10,7 @@
 [Watch Video](www.youtube.com)
 
 
-# **App: _NAME_OF_APP_**
+# **App: CanadaConserves**
 
 Hosted on GitHub:
 
@@ -34,11 +34,11 @@ To meet this ambitious target, novel approaches are required. But there is great
 
 ## Mission Statement
 
-Our **REPLACE WITH NAME OF APP** integrates existing ecoregions and key biodiversity areas (KBAs) in Canada, identifies and plots candidate protected areas or sites of KBAs, and seeks to assess whether these areas become newly created conservation areas **Will fix wording**.
+CanadaConserves integrates existing ecoregions and key biodiversity areas (KBAs) in Canada, identifies and plots candidate protected areas or sites of KBAs, and seeks to assess whether these areas become newly created conservation areas **Will fix wording**.
 
-This is tool is not for analysis. The goal of **REPLACE WITH NAME OF APP** is not to identify high-risk areas or candidate KBA sites. That is beyond the scope of this app, and there is a lot of time, money, and man-power poured into those efforts Not all of that data is publically accessible either.
+This is tool is not for analysis. The goal of CanadaConserves is not to identify high-risk areas or candidate KBA sites. That is beyond the scope of this app, and there is a lot of time, money, and man-power poured into those efforts Not all of that data is publically accessible either.
 
-Instead, this is a reporting, compliance, and awareness tool. This is a tool created for the sake of transparency, which can be used by anyone for everyone, whether they work for the government, perform research on the field, own businesses, or are members of the public. The following questions are some of the questions we sought to answer with **REPLACE WITH NAME OF APP**:
+Instead, this is a reporting, compliance, and awareness tool. This is a tool created for the sake of transparency, which can be used by anyone for everyone, whether they work for the government, perform research on the field, own businesses, or are members of the public. The following questions are some of the questions we sought to answer with CanadaConserves:
 
 - How well are the provincial/territorial and federal governments complying with the goals of the 30 by 30 Project?
 - Will they achieve these goals?
@@ -50,7 +50,7 @@ Instead, this is a reporting, compliance, and awareness tool. This is a tool cre
 - How can the public holds its officials to account?
 
 
-## **REPLACE WITH NAME OF APP**
+## CanadaConserves
 
 **Methods and Workflow**
 
@@ -76,21 +76,19 @@ Our key deliverable was to examine the current state of Protected and Conserved 
 
 **App Features:**
 
--
--
--
--
+- Map of Current Status by Province
+- Map of Current Status by Ecoregion
+- Map of Current PCAs
+- Add your own conservation areas
 
 
 **How to use the App**
 
-1. sd 
-2. sds
-3. dfdf
-4. dfdf
-5. dfdf
-6. dfdf
-7. dfd
+1. Clicking the layer icon in the interactive maps provides access to various conservation areas of study. 
+2. Clicking on the basemap icon allows you to change the basemap.
+3. Click on different ecoregions to learn about them
+4. Click on Map Your Impact to add your own conservation areas and see how much of an impact it makes.
+5. Click on Take Action to learn about how you can make a difference
 
 
 **Data**
