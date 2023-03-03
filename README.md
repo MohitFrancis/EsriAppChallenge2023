@@ -110,7 +110,7 @@ All photos and videos in the first half of the video are free to use and were so
 All music used in the video is also free to use and was sourced from Pixabay ([License](https://pixabay.com/service/license/)).
 
 
-[CanadaConservesVideo goes here]
+<div style="max-width: 1280px"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://nscc.sharepoint.com/sites/ECCEAppChallengeTeam/_layouts/15/embed.aspx?UniqueId=446c3324-e708-403b-bc8d-2eea1e090c26&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen title="CanadaConserves.mp4" style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 
 ## Documentation
