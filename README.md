@@ -28,7 +28,7 @@ To meet this ambitious target, novel approaches are required. But there is great
 
 ## Mission Statement
 
-CanadaConserves integrates existing ecoregions and key biodiversity areas (KBAs) in Canada, identifies and plots candidate protected areas or sites of KBAs, and seeks to assess whether these areas become newly created conservation areas **Will fix wording**.
+CanadaConserves integrates existing ecoregions and key biodiversity areas (KBAs) in Canada, identifies and plots candidate protected areas or sites of KBAs, and seeks to assess whether these areas become newly created conservation areas.
 
 This is tool is not for analysis. The goal of CanadaConserves is not to identify high-risk areas or candidate KBA sites. That is beyond the scope of this app, and there is a lot of time, money, and man-power poured into those efforts Not all of that data is publically accessible either.
 
@@ -121,9 +121,9 @@ All music used in the video is also free to use and was sourced from Pixabay ([L
 
 ## Team Members
 ![Teamphoto](https://github.com/MohitFrancis/EsriAppChallenge2023/blob/main/images/team_collage_photo.png)
-Left to right: François D'Entremont, Mohit Francis, Cindy Lu
+Left to right: François d'Entremont, Mohit Francis, Cindy Lu
 
-**François D'Entremont:** Hi! I'm a geospatial data enthusiast, and my interests in math, programming, machine learning, spatial analysis, and chess led me to pursue a graduate certificate in Geospatial Data Analytics. One of the coolest projects I'm currently working on is classifying pottery shards from the Levant using machine learning models. It's a fascinating challenge that allows me to apply my spatial analysis and machine learning skills to real-world problems. As a curious and passionate learner, I'm always eager to take on new challenges and explore new opportunities in the exciting world of geospatial analysis. Whether it's using data to make informed decisions or developing innovative solutions to complex problems, I'm ready for whatever comes my way. 
+**François d'Entremont:** Hi! I'm a geospatial data enthusiast, and my interests in math, programming, machine learning, spatial analysis, and chess led me to pursue a graduate certificate in Geospatial Data Analytics. One of the coolest projects I'm currently working on is classifying pottery shards from the Levant using machine learning models. It's a fascinating challenge that allows me to apply my spatial analysis and machine learning skills to real-world problems. As a curious and passionate learner, I'm always eager to take on new challenges and explore new opportunities in the exciting world of geospatial analysis. Whether it's using data to make informed decisions or developing innovative solutions to complex problems, I'm ready for whatever comes my way. 
 
 When I'm not busy analyzing data, you'll likely find me watching hockey games, cheering for my favorite teams, and enjoying all the action on the ice!
 
