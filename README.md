@@ -105,9 +105,9 @@ Additional Data
 
 ## Video Presentation
 
-All photos and videos in the first half of the video are free to use and were sourced from Pexels ([pexels.com/](https://www.pexels.com/license/)).
+All photos and videos in the first half of the video are free to use and were sourced from Pexels ([License](https://www.pexels.com/license/)).
 
-All music used in the video is also free to use and was sourced from Pixabay ([pixabay.com](https://pixabay.com/service/license/).
+All music used in the video is also free to use and was sourced from Pixabay ([License](https://pixabay.com/service/license/)).
 
 
 **VIDEO GOES HERE**
