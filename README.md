@@ -32,16 +32,16 @@ CanadaConserves integrates existing ecoregions and key biodiversity areas (KBAs)
 
 This is tool is not for analysis. The goal of CanadaConserves is not to identify high-risk areas or candidate KBA sites. That is beyond the scope of this app, and there is a lot of time, money, and man-power poured into those efforts Not all of that data is publically accessible either.
 
-Instead, this is a reporting, compliance, and awareness tool. This is a tool created for the sake of transparency, which can be used by anyone for everyone, whether they work for the government, perform research on the field, own businesses, or are members of the public. The following questions are some of the questions we sought to answer with CanadaConserves:
+Instead, this is a reporting, compliance, and awareness tool. This is a tool created for the sake of openness and transparency, which can be used by anyone for everyone, whether they work for the government, perform research on the field, own businesses, or are members of the public. The following questions are some of the questions we sought to answer with CanadaConserves:
 
-- How well are the provincial/territorial and federal governments complying with the goals of the 30 by 30 Project?
+- How well are all levels of government complying with the goals of the 30 by 30 Project?
 - Will they achieve these goals?
 - Where are existing protected areas?
 - Where are current candidate sites?
 - Where can more candidate sites be placed?
 - If a new candidate site or area were to be created, how big should its area be?
-- To what extent will its creation help in the progress of the project?
-- How can the public holds its officials to account?
+- How will the creation of new protected areas contribute towards the progress of the project?
+- How can the public holds its officials accountable?
 
 
 ## CanadaConserves
@@ -105,6 +105,10 @@ Additional Data
 
 ## Video Presentation
 
+All photos and videos in the first half of the video are free to use and were sourced from Pexels ([pexels.com/](https://www.pexels.com/license/)).
+
+All music used in the video is also free to use and was sourced from Pixabay ([pixabay.com](https://pixabay.com/service/license/).
+
 
 **VIDEO GOES HERE**
 
@@ -124,7 +128,7 @@ Additional Data
 When I'm not busy analyzing data, you'll likely find me watching hockey games, cheering for my favorite teams, and enjoying all the action on the ice!
 
 
-[Picture Link]
+[Picture Link](https://github.com/MohitFrancis/EsriAppChallenge2023/blob/main/images/Mohit.JPG)
 
 **Mohit Francis:** Hello! My interests in human health, culture, and impacts (especially on the environment) led me to complete a Bachelor of Science in Human Biology and Evolutionary Anthropology, and a Certificate in Bioarchaeology from the University of Toronto. During my undergraduate studies, I learned of spatial analysis and the many methods of applying geographic information systems (GIS) technology. As someone who has always enjoyed analysing and working with big data, I wanted to learn more in the hopes of eventually working in a sector aligned with my interests. This led me to the Centre of Geographic Sciences (COGS), where I'm currently enrolled in the GIS graduate certificate program for the 2022-2023 academic year.
 
