@@ -128,7 +128,7 @@ All music used in the video is also free to use and was sourced from Pixabay ([p
 When I'm not busy analyzing data, you'll likely find me watching hockey games, cheering for my favorite teams, and enjoying all the action on the ice!
 
 
-[Picture Link](https://github.com/MohitFrancis/EsriAppChallenge2023/blob/main/images/Mohit.JPG)
+[Picture Link](https://github.com/MohitFrancis/EsriAppChallenge2023/blob/main/images/Mohit.jpg)
 
 **Mohit Francis:** Hello! My interests in human health, culture, and impacts (especially on the environment) led me to complete a Bachelor of Science in Human Biology and Evolutionary Anthropology, and a Certificate in Bioarchaeology from the University of Toronto. During my undergraduate studies, I learned of spatial analysis and the many methods of applying geographic information systems (GIS) technology. As someone who has always enjoyed analysing and working with big data, I wanted to learn more in the hopes of eventually working in a sector aligned with my interests. This led me to the Centre of Geographic Sciences (COGS), where I'm currently enrolled in the GIS graduate certificate program for the 2022-2023 academic year.
 
