@@ -12,15 +12,9 @@
 
 # **App: CanadaConserves**
 
-Hosted on GitHub:
-
-- Main Website: 
-- Web App: 
-
 Hosted on ArcGIS Online:
 
-- Main Website:
-- Web App:
+- Experience Builder: [CanadaConserves](https://experience.arcgis.com/experience/87b5a9b72ac04505bf567b867f782b3a)
 
 
 ## Introduction
@@ -95,7 +89,7 @@ Our key deliverable was to examine the current state of Protected and Conserved 
 
 Data Layers
 
-| Data Layer      | Data Source |
+| Data Layer   | Data Source |
 | ----------- | ----------- |
 | Canadian Marine Boundary | [Flanders Marine Institute](https://www.marineregions.org/eezdetails.php?mrgid=8493) |
 | Canadian Protected and Conserved Areas | [Canadian Wildlife Service](https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html) |
@@ -120,14 +114,10 @@ Additional Data
 [README.md](https://github.com/MohitFrancis/EsriAppChallenge2023/edit/main/README.md)
 
 
-## Source Code / Compiled Copies of App:
-
-- [Copy of code/source code]()
-
 
 ## Team Members
 
-[Picture Link]
+![François](https://github.com/MohitFrancis/EsriAppChallenge2023/blob/main/images/Francois.jpg)
 
 **François D'Entremont:** Hi! I'm a geospatial data enthusiast, and my interests in math, programming, machine learning, spatial analysis, and chess led me to pursue a graduate certificate in Geospatial Data Analytics. One of the coolest projects I'm currently working on is classifying pottery shards from the Levant using machine learning models. It's a fascinating challenge that allows me to apply my spatial analysis and machine learning skills to real-world problems. As a curious and passionate learner, I'm always eager to take on new challenges and explore new opportunities in the exciting world of geospatial analysis. Whether it's using data to make informed decisions or developing innovative solutions to complex problems, I'm ready for whatever comes my way. 
 
@@ -141,7 +131,7 @@ When I'm not busy analyzing data, you'll likely find me watching hockey games, c
 The themes of this year's ECCE App Challenge - Conservation and Protected Areas or Urban Ecology - dovetail perfectly with my interests. On the academic side, for my term-long project at COGS, I am researching coastal erosion on the North Shore of Nova Scotia caused by extreme weather events. On the personal side, one of my most memorable experiences was being part of the volunteer tree planting and stewardship program organised by the Parks, Forestry, and Recreation Department of the City of Toronto. Planting native tree species and removing invasive species is a common ecological management technique in urban areas, of course. Outside of my studies and work, I enjoy watching and playing football (*incorrectly* called 'soccer'), and I hope to see Arsenal lift the title (knock on wood!) this May! 
 
 
-[Picture Link]
+![Cindy](https://github.com/MohitFrancis/EsriAppChallenge2023/blob/main/images/Cindy.JPG)
 
 **Cindy Lu:** Hello! My GIS journey began with a curiosity for the world around me and a desire to understand how different factors interact and influence each other. While working at a conservation organization in beautiful British Columbia, I discovered the power of GIS to bridge knowledge gaps across time and space. With its versatility and compatibility with different types of data and industries, GIS quickly became a passion of mine. Currently, I am studying in the Geospatial Data Analytics program at COGS, building on my previous education with a Bachelor of Arts in Environment from McGill University. When I'm not glued to my computer screen, you can often find me exploring new hiking trails, checking out cozy local shops, or venturing off to far-off lands and waters. I hope our app will encourage you to learn a little more about the diversity of Canadian ecosystems and explore ways to protect and conserve the place we call home.
 
