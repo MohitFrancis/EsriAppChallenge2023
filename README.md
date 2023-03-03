@@ -5,11 +5,6 @@
 ### Contributors: François d'Entremont, Mohit Francis, Cindy Lu
 
 
-[View on GitHub](https://github.com/MohitFrancis/EsriAppChallenge2023)
-[Live Demo](www.google.com)
-[Watch Video](www.youtube.com)
-
-
 # **App: CanadaConserves**
 
 Hosted on ArcGIS Online:
