@@ -102,6 +102,8 @@ Additional Data
 
 All photos and videos in the first half of the video are free to use and were sourced from Pexels ([License](https://www.pexels.com/license/)).
 
+Justin Trudeau's 'Remarks to the media at COP26'<sup>[8]</sup> reused and edited under Creative Commons License ([License](https://creativecommons.org/licenses/by/4.0/)).
+
 All music used in the video is also free to use and was sourced from Pixabay ([License](https://pixabay.com/service/license/)).
 
 
@@ -158,3 +160,5 @@ Available at: www.canada.ca/en/environment-climate-change/services/environmental
 [6] Mitchell, M. G., Schuster, R., Jacob, A. L., Hanna, D. E., Dallaire, C. O., Raudsepp-Hearne, C., ... & Chan, K. M. (2021). Identifying key ecosystem service providing areas to inform national-scale conservation planning. Environmental Research Letters, 16(1), 014038. https://iopscience.iop.org/article/10.1088/1748-9326/abc121/meta.
 
 [7] Mitchell, M. (2021, April 20). How to meet the ambitious target of conserving 30 per cent of Earth by 2030 - Beyond. The Conversation. Retrieved February 27, 2023, from https://theconversation.com/how-to-meet-the-ambitious-target-of-conserving-30-per-cent-of-earth-by-2030-154987.
+
+[8] Justin Trudeau – Prime Minister of Canada. (2021, November 8). Remarks to the media at COP26 [Video]. YouTube. https://www.youtube.com/watch?v=jEV6EW40xX0
