@@ -103,7 +103,8 @@ Data Layers
 | Canadian Protected and Conserved Areas | [Canadian Wildlife Service](https://www.canada.ca/en/environment-climate-change/services/national-wildlife-areas/protected-conserved-areas-database.html) |
 | Important Bird Areas | [Bird Studies Canada](http://www.ibacanada.org) |
 | Key Biodiversity Areas | [Canada KBA](https://kbacanada.org/explore/map-viewer/) |
-| Provinces and Territories of Canada     | [esri_canada](https://www.arcgis.com/home/item.html?id=d3fef65386df4e63b02d6e23bb98a1ee)       |
+| Provinces and Territories of Canada     | [Esri Canada](https://www.arcgis.com/home/item.html?id=d3fef65386df4e63b02d6e23bb98a1ee), Natural Earth Vector       |
+| Sentinel-2 Land Use/Land Cover Change from 2018 to 2021 | Impact Observatory, Microsoft, and [Esri](https://env1.arcgis.com/arcgis/rest/services/Sentinel_2_10m_Land_Cover_Change/ImageServer) |
 | Terrestrial Ecoregions of Canada   | [Agriculture and Agri-Food Canada](https://open.canada.ca/data/en/dataset/ade80d26-61f5-439e-8966-73b352811fe6)  |
 
 Additional Data
