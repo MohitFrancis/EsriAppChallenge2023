@@ -54,10 +54,25 @@ Instead, this is a reporting, compliance, and awareness tool. This is a tool cre
 
 **Methods and Workflow**
 
--
--
--
--
+Data from the Protected and Conserved Areas Database (CPCAD) were used to calculate examine the state of the ’30 by 30’ Project as of December 2021. 
+Our key deliverable was to examine the current state of Protected and Conserved Areas (PCA) in each province and ecoregion. To ensure consistency of the calculations, the Albers Equal Area Conic projection was applied to all data. 
+
+#### *Percent coverage by Province, Territory, and Marine area:*
+•	Only PCAs categorized as terrestrial were considered when calculating percent coverage in each province and territory. The output of the summary statistics function with aggregated geometric areas and counts of PCAs for each province and territory was appended to the Province and Territories of Canada layer, and the percent coverage was then calculated using appropriate metrics. 
+
+•	Marine PCA coverage was calculated using aggregated area of all PCAs categorized as marine and the area of the Canadian Marine Boundary polygon. 
+
+#### *Percent coverage by Ecoregion:*
+•	Offshore marine areas not captured in the ‘Terrestrial Ecoregions of Canada’ dataset were added as an unofficial category (Others-offshore marine). An overlay was performed to intersect the PCA and the updated Ecoregion layers, the aggregated area for each ecoregion was then summarized and joined with the Ecoregion layer to calculate the PCA percent coverage. 
+
+#### *Potential Areas for Protection and Conservation:*
+•	Key Biodiversity Areas and Important Bird Areas were included and referenced as potential sites. Note that some areas overlap with existing PCAs. 
+
+•	In addition, a new polygon layer was created to host an inventory of potential areas for official protection and conservation designation. App users are encouraged to add and edit potential sites of significance to the inventory, or to view conservation efforts and seek collaboration opportunities around areas of interest.
+
+#### *Other information:*
+•	Sentinel-2 10m Land Use/Land Cover Change from 2018 to 2021 was added as reference to identify significant development from natural areas in the past.
+
 
 **App Features:**
 
